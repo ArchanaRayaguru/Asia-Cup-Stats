@@ -1,0 +1,13 @@
+As ASIA Cup is going on, can you create a report in tableau with proper
+KPI's, Navigation and Story to show match as well as key records in ASIA Cup over
+the period of years.
+Data is very simple to undertsand.
+Team has lose or win against the opponent is shown in the result tab.
+Can you also show some correlations between some variables and infer something out of the
+data.
+If I want a report of India and Pakistan seperately about their match stats,
+Can you create a seperate story for that.
+
+Dashboard should be cleaned and properly drafted with Inference.
+Colors should be done properly
+Title should be accurate as well as alignment.
